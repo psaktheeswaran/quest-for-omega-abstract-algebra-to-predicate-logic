@@ -1,0 +1,71 @@
+A First Course in Abstract Algebra, 7th Edition 7th Edition
+by John Fraleigh (Author)
+
+Contemporary Abstract Algebra
+Front Cover
+Joseph Gallian
+
+Elements of Abstract Algebra (Dover Books on Mathematics) 47.3 Edition
+
+https://stacks.math.columbia.edu/download/fields.pdf
+
+http://www.cmat.edu.uy/~marclan/TM/Algebra%20i%20-%20Bourbaki.pdf
+
+Basic Theory
+of
+Affine Group Schemes
+J.S. Milne
+
+https://www.jmilne.org/math/CourseNotes/AGS.pdf
+
+http://www.cmat.edu.uy/~marclan/TM/Algebra%20i%20-%20Bourbaki.pdf
+
+NICOLAS BOURBAKI
+Elements of Mathematics
+Algebra I
+Chapters 1 - 3
+
+Relative Homological Algebra, Volume 1
+Front Cover
+Edgar E. Enochs, Overtoun M. G. Jenda
+
+
+https://books.google.ca/books/about/Relative_Homological_Algebra.html?id=4m08356hlxMC
+
+https://stacks.math.columbia.edu/download/homology.pdf
+
+http://isites.harvard.edu/fs/docs/icb.topic1381051.files/serre-representation-theory.pdf
+
+https://stacks.math.columbia.edu/download/groupoids.pdf
+
+Representations of Algebraic Groups (Mathematical Surveys and Monographs) (Mathematical Surveys and Monographs, 107) 2nd Edition
+by Jens Carsten Jantzen (Author)
+
+Lie Groups: Beyond an Introduction 2nd Edition
+by Anthony W. Knapp (Author)
+4.7 4.7 out of 5 stars    16 ratings
+
+Learning Modern Algebra (Mathematical Association of America Textbooks) 1st Edition
+by Al Cuoco (Author), Joseph Rotman (Author)
+
+First Course in Abstract Algebra, A 3rd Edition
+by Joseph Rotman (Author)
+
+https://www.math.stonybrook.edu/~aknapp/download.html
+
+Download Free Books by Knapp
+From lower down on this page, anyone can download free PDF files of certain editions of the six most recent books by Anthony W. Knapp.   These books are at the first-year graduate level or a little higher, depending on one's university.  Five of these books are "digital second editions" of books whose first editions were published by Birkhäuser Boston between 2002 and 2007. The other book, Stokes's Theorem and Whitney Manifolds, is the "original digital edition" of a more recent book that was not published previously in any form.  All six books are available for download:
+Basic Algebra  (digital second edition)
+Basic Real Analysis, with an appendix "Elementary Complex Analysis"  (digital second edition)
+Stokes's Theorem and Whitney Manifolds  (original digital edition)
+Advanced Algebra  (digital second edition)
+Advanced Real Analysis  (digital second edition)
+Lie Groups Beyond an Introduction  (digital second edition).
+The files of the books have been made available as a gift to the mathematics community worldwide.  The files are limited to noncommercial use for purposes of education, scholarship, and research.  Pages of the files may be freely stored electronically, freely accessed, freely copied, and freely transmitted.  A few specific conditions on electronic use are imposed to maintain the noncommercial nature of the files and ensure the integrity of the individual pages, including that no one is ever charged a fee for acquiring or looking at the files and that the files are not translated into any other computer format (e.g., EPUB).  The specific conditions are spelled out on a separate webpage, and a copy of them appears on page iv (the fourth page of the front matter) of the PDF file of each book.  Please adhere to these conditions.
+
+Printing of the files is constrained legally.  One reason is that Springer Science+Business Media, Inc. has a stake in printed copies of the five books whose first editions were published by Birkhäuser Boston, as is explained in the brief history below, and Springer's permission may be required for printing.  For a discussion of these legal considerations, click here.  In the case of Stokes's Theorem and Whitney Manifolds, Project Euclid has a nonexclusive license to make printed copies of the books and offer them for sale at cost.  As of August 2023 no one else had such a license.
+
+
+JOY OF SETS IN PREDICATE LOGIC
+
+https://math.stackexchange.com/questions/54839/good-abstract-algebra-books-for-self-study
